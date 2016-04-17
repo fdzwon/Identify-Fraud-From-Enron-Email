@@ -1,18 +1,4 @@
 
-# coding: utf-8
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[1]:
-
 #!/usr/bin/python
 
 import sys
